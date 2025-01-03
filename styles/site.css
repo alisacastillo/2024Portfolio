@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    padding-top: 20pt;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 15pt;
+}
+
+nav ul li a:hover {
+    color: darkblue;
+    font-style: oblique;
+}
+
+.aboutPlusPhoto{
+    display: flex;
+}

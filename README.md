@@ -1,2 +1,2 @@
 # 2024Portfolio
-2024 Portfolio Practice 
+This is going to be my first attempt at making a personal portfolio on Github. I want to start using Github regularly as I am practicing how to code so this will my first personal project I am working on. I will start of my just using HTML and CSS. I am still figuring out how to navigate Github, its privacy settings, and how repositories are saved onto the server on my personal account. I hope this will teach me more as I continue to use Github and Git. 
